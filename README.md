@@ -1,24 +1,27 @@
 ==================================================================
-Data Wrangling: Human Activity Recognition
-Foundations of Data Science
+## Data Wrangling: Human Activity Recognition
+### Foundations of Data Science
 https://www.springboard.com/
-==================================================================
-David Ortiz Frau
-Web Developer
+
+---
+##### David Ortiz Frau
+###### _Web Developer_
 http://davidortizfrau.me/
-==================================================================
+
+---
 
 Samsung Galaxy S Smartphone dataset
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-==================================================================
-Library Dependencies
+---
+**Library Dependencies**
 
-dplyr - https://cran.r-project.org/web/packages/dplyr/README.html
-tidyr - https://cran.r-project.org/web/packages/tidyr/README.html
-==================================================================
+1. dplyr - https://cran.r-project.org/web/packages/dplyr/README.html
+2. tidyr - https://cran.r-project.org/web/packages/tidyr/README.html
 
-Requirements:
+---
+
+**Requirements:**
 
 1. Merges the training and the test sets to create one data set.
 
@@ -28,6 +31,6 @@ Requirements:
 
 4. From the data set in step 3, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-==================================================================
+---
 
 Consult CodeBook.md for explanation of variables, the data, and any transformations or work that I performed to clean up the data.
